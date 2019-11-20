@@ -60,6 +60,7 @@ nav a:hover {
     display: inline-block;
     text-align: center;
   }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -68,6 +69,7 @@ nav a:hover {
     font-size: 110%;
     line-height: 1.4;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -101,4 +103,5 @@ nav a:hover {
   html {
     font-size: 130%;
   }
+
 }
